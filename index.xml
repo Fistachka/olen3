@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>olen3</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="olen4"/>
   <readme>
     <ru>d53327c68c1f83a8574d19cdf5349d7c80ee82dc701e43b14b42976025c651a5</ru>
@@ -57,13 +57,13 @@
     <notes>
       <note number="1" values="18" ticks="65" durationTicks="35" ppq="96" velocity="0.812"/>
       <note number="2" values="18" ticks="112" durationTicks="34" ppq="96" velocity="0.769"/>
-      <note number="3" values="18" ticks="160" durationTicks="30" ppq="96" velocity="0.817"/>
-      <note number="4" values="18" ticks="209" durationTicks="29" ppq="96" velocity="0.812"/>
+      <note number="3" values="18" ticks="158" durationTicks="19" ppq="96" velocity="0.817"/>
+      <note number="4" values="18" ticks="187" durationTicks="29" ppq="96" velocity="0.812"/>
       <note number="5" values="48" ticks="257" durationTicks="30" ppq="96" velocity="0.744"/>
-      <note number="6" values="48" ticks="304" durationTicks="40" ppq="96" velocity="0.822"/>
-      <note number="7" values="38" ticks="356" durationTicks="46" ppq="96" velocity="0.822"/>
-      <note number="8" values="28" ticks="405" durationTicks="46" ppq="96" velocity="0.822"/>
-      <note number="9" values="38" ticks="454" durationTicks="95" ppq="96" velocity="0.822"/>
+      <note number="6" values="48" ticks="296" durationTicks="25" ppq="96" velocity="0.822"/>
+      <note number="7" values="38" ticks="327" durationTicks="46" ppq="96" velocity="0.822"/>
+      <note number="8" values="28" ticks="386" durationTicks="33" ppq="96" velocity="0.822"/>
+      <note number="9" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.822"/>
     </notes>
   </exercise>
   <exercise number="4">
