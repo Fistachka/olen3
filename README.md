@@ -3,7 +3,7 @@
 "Лесной олень"  Аида Ведищева 1971г. 3 часть
 ![6](https://github.com/user-attachments/assets/c52333d9-368a-4cd0-ba60-d7d36a4b8c9a)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/jhM0QfpEOwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/8n3-1qLnVb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Говорят чудес на свете нет
@@ -28,7 +28,7 @@ stolbitsa.com/fistachka/olen2<br><br>
 "The Magic Deer" (song) by Aida Vedishcheva. 3 st verse
 ![6](https://github.com/user-attachments/assets/c52333d9-368a-4cd0-ba60-d7d36a4b8c9a)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/1mj2iMQoyDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/1igG2Szt1ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Govoryat chudes na svete net
